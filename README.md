@@ -3,8 +3,8 @@ Tricks and  useful tools for codebord with python
 
 ## Templete
 In every exercise there is two main pages. 
-_main.py_ - where is the exercise and students run thier code.
-_tools.py_ where is tools and spcial functions.
+- _main.py_ - where is the exercise and students run thier code.
+- _tools.py_ where is tools and spcial functions.
 
 By `from tools import *` import all objects in tools.
 
